@@ -14,10 +14,14 @@
 ## Deep Learning and acceleration
  - Floating point arithmatic
    - Bfloat16 and other data type
- - Transformers
+ - Transformers  
+ Make sure to illustrate each layer in forward and backward propagation  
+ with diagram and equations.
+ Self attention, Layer normalization, etc.
    - BERT
    - GPT3
- - NLP models
+ - NLP related topic
+   - Word embedding
    
 ## Computer Architecture
  - Cache Coherence algorithm
